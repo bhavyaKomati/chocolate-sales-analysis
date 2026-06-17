@@ -4,6 +4,38 @@
 
 This project analyzes a large-scale chocolate sales dataset using Python and Machine Learning techniques. The objective is to identify business insights through data visualization and predict profit using a Decision Tree Regressor model.
 
+## Project Structure
+
+├── Chocolate_Sales_ML_Project.ipynb
+
+├── Chocolate_Sales_Analysis_Report.pdf
+
+├── sales.csv
+
+├── products.csv
+
+├── customers.csv
+
+├── stores.csv
+
+├── calendar.csv
+
+├── 01_bar_chart_profit_category.png
+
+├── 02_line_chart_monthly_revenue.png
+
+├── 03_pie_chart_revenue_share.png
+
+├── 04_scatter_revenue_vs_profit.png
+
+├── 05_histogram_profit_distribution.png
+
+├── 06_model_results.png
+
+├── 07_MAE & R² Output.png
+
+└── 08_actual_vs_predicted.png
+
 ## Technologies Used
 
 * Python
@@ -68,38 +100,6 @@ The model achieved excellent predictive performance and successfully identified 
 - Examined revenue-profit relationships using correlation analysis.
 - Visualized profit distribution patterns using histograms.
 - Developed a machine learning model for profit prediction.
-
-## Project Structure
-
-├── Chocolate_Sales_ML_Project.ipynb
-
-├── Chocolate_Sales_Analysis_Report.pdf
-
-├── sales.csv
-
-├── products.csv
-
-├── customers.csv
-
-├── stores.csv
-
-├── calendar.csv
-
-├── 01_bar_chart_profit_category.png
-
-├── 02_line_chart_monthly_revenue.png
-
-├── 03_pie_chart_revenue_share.png
-
-├── 04_scatter_revenue_vs_profit.png
-
-├── 05_histogram_profit_distribution.png
-
-├── 06_model_results.png
-
-├── 07_MAE & R² Output.png
-
-└── 08_actual_vs_predicted.png
 
 ## Author
 
