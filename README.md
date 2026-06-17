@@ -72,8 +72,11 @@ The model achieved excellent predictive performance and successfully identified 
 ## Project Structure
 
 ├── Chocolate_Sales_ML_Project.ipynb
+
 ├── Chocolate_Sales_Analysis_Report.pdf
+
 ├── sales.csv
+
 ├── products.csv
 ├── customers.csv
 ├── stores.csv
