@@ -78,16 +78,27 @@ The model achieved excellent predictive performance and successfully identified 
 ├── sales.csv
 
 ├── products.csv
+
 ├── customers.csv
+
 ├── stores.csv
+
 ├── calendar.csv
+
 ├── 01_bar_chart_profit_category.png
+
 ├── 02_line_chart_monthly_revenue.png
+
 ├── 03_pie_chart_revenue_share.png
+
 ├── 04_scatter_revenue_vs_profit.png
+
 ├── 05_histogram_profit_distribution.png
+
 ├── 06_model_results.png
+
 ├── 07_MAE & R² Output.png
+
 └── 08_actual_vs_predicted.png
 
 ## Author
